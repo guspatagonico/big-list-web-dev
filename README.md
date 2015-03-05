@@ -14,6 +14,7 @@ Thank you!
 - [VUE](http://vuejs.org)  - MVVM made simple
 - [React](http://facebook.github.io/react/) - A Javascript library for building user interfaces
 - [Riot](https://muut.com/riotjs/) - A React-like 3.5KB user interface library
+- [Polymer project](https://www.polymer-project.org) - Web components frontend framework
 
 ### SVG, Canvas, Drawing, Animation
 - [Vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
@@ -47,3 +48,6 @@ Thank you!
 
 ## Offline First
 - [Offline first web apps](https://github.com/pazguille/offline-first) - "Everything you need to know to create offline-first web apps"
+
+## Databases
+- [RethinkDB](http://rethinkdb.com) - Intuitive query language, automatically parallelized queries, and simple administration. Table joins and batteries included.
