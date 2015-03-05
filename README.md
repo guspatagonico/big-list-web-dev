@@ -18,12 +18,16 @@ Thank you!
 
 ## Isomorphic Frameworks
 - [Isomorphic JavaScript](http://isomorphic.net/) - Libraries and Frameworks
+
 ### Meteor
-- - [Meteor](https://www.meteor.com)
+
+- [Meteor](https://www.meteor.com)
 - [Meteor in Production - A Case Study](https://meteorhacks.com/meteor-in-production-a-case-study.html)
 - [Introduction to Realtime Web with Meteor and Node.js](https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs)
 - [7 Reasons to Develop Your Next Web App with Meteor](http://www.sitepoint.com/7-reasons-develop-next-web-app-meteor/)
+
 ### Other frameworks
+
 - [Ezel](http://ezeljs.com/)
 - [DerbyJS](http://derbyjs.com/)
 - [Rendr](https://github.com/rendrjs/rendr)
