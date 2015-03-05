@@ -10,15 +10,28 @@ Thank you!
 ## Frontend
 - [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
 - [VUE](http://vuejs.org)  - MVVM made simple
+- [React](http://facebook.github.io/react/) - A Javascript library for building user interfaces
+- [Riot](https://muut.com/riotjs/) - A React-like 3.5KB user interface library
 
 ### SVG, Canvas, Drawing, Animation
 - [Vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
 
 ## Isomorphic Frameworks
-- [Meteor](https://www.meteor.com)
+- [Isomorphic JavaScript](http://isomorphic.net/) - Libraries and Frameworks
+### Meteor
+- - [Meteor](https://www.meteor.com)
 - [Meteor in Production - A Case Study](https://meteorhacks.com/meteor-in-production-a-case-study.html)
 - [Introduction to Realtime Web with Meteor and Node.js](https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs)
 - [7 Reasons to Develop Your Next Web App with Meteor](http://www.sitepoint.com/7-reasons-develop-next-web-app-meteor/)
+### Other frameworks
+- [Ezel](http://ezeljs.com/)
+- [DerbyJS](http://derbyjs.com/)
+- [Rendr](https://github.com/rendrjs/rendr)
+- [Invisible.js](http://invisiblejs.github.io/)
+- [Cassis](http://tantek.pbworks.com/w/page/19402872/CassisProject)
+- [Este](https://github.com/steida/este)
+- [Sara.js](http://sarajs.github.io/)
+
 
 ## Build tools
 - [Mimosa](http://mimosa.io/)
