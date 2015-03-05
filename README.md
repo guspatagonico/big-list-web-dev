@@ -7,8 +7,6 @@ If you want to contact me to share some thoughts, my Twitter username is [@guspa
 
 Thank you!
 
-[TOC]
-
 ## Frontend
 - [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
 - [VUE](http://vuejs.org)  - MVVM made simple
