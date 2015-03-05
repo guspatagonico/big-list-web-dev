@@ -1,5 +1,7 @@
 # Guspatagonico's Big List of Web Development Resources
 
+[![Join the chat at https://gitter.im/guspatagonico/big-list-web-dev](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/guspatagonico/big-list-web-dev?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 My big list of web development resources (client, server, isomorphic, classic, brand new, and everything that I consider useful)
 
 I encourage you to share this repo!
