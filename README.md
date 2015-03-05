@@ -17,7 +17,14 @@ Thank you!
 ## Isomorphic Frameworks
 - [Meteor](https://www.meteor.com)
 - [Meteor in Production - A Case Study](https://meteorhacks.com/meteor-in-production-a-case-study.html)
+- [Introduction to Realtime Web with Meteor and Node.js](https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs)
+- [7 Reasons to Develop Your Next Web App with Meteor](http://www.sitepoint.com/7-reasons-develop-next-web-app-meteor/)
+
+## Build tools
+- [Mimosa](http://mimosa.io/)
 
 ## IDEs and Code Editors
 - [VIM as an IDE](https://github.com/jez/vim-as-an-ide)
 
+## Offline First
+- [Offline first web apps](https://github.com/pazguille/offline-first) - "Everything you need to know to create offline-first web apps"
