@@ -51,3 +51,8 @@ Thank you!
 
 ## Databases
 - [RethinkDB](http://rethinkdb.com) - Intuitive query language, automatically parallelized queries, and simple administration. Table joins and batteries included.
+
+## Games development
+- [MDN: Game engines and tools](https://developer.mozilla.org/en-US/docs/Games/Tools/Engines_and_tools)
+- [HTML5 game engines](https://html5gameengine.com/)
+
